@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fatih-episode-journal.abdullah898898.chatgpt.site/sitemap.xml

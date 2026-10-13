@@ -1,0 +1,172 @@
+/* Readable controls throughout the journal. */
+body{font-size:16px}
+.site-header nav,.header-alert{font-size:15px}
+.site-header nav{gap:24px}
+.site-header nav a{min-height:44px;display:flex;align-items:center}
+.menu-button{min-width:44px;min-height:44px}
+.header-alert{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:12px 18px;border:1px solid var(--ink);border-radius:4px;white-space:nowrap;margin-left:20px}
+.arrow{display:none!important}
+.eyebrow{font-size:13px;letter-spacing:.09em;line-height:1.6}
+.hero-description,.story-copy>p,.subtitle-tracks p,.questions details p,.article-body p{font-size:17px}
+.hero-foot,.hero-image figcaption,.image-caption,.story-meta,.track-heading .eyebrow,.track-status,.subtitle-tracks .text-link,.table-note,.schedule-note,.source-strip,.source-strip p,.footer p,.footer small{font-size:14px;line-height:1.7}
+.text-link,.guide-link,.next-actions>a,.source-strip>a{display:inline-flex;justify-content:center;align-items:center;min-height:46px;padding:11px 18px;border:1px solid var(--ink);border-radius:4px;font-size:15px;line-height:1.45;letter-spacing:0;text-decoration:none;gap:8px}
+.text-link:hover,.guide-link:hover{background:#e5e8dd}
+.next-actions>a{border-color:#798a78;padding:12px 15px;font-size:15px}
+.next-actions>small,.next-date .countdown-status,.next-date .countdown-date{font-size:14px;line-height:1.7}
+.countdown-display span{font-size:13px;letter-spacing:1px}
+.episodes-table th{font-size:13px;letter-spacing:.07em}
+.episodes-table time{font-size:16px}
+.episode-sub{font-size:14px;line-height:1.7;margin-top:8px}
+.questions summary{font-size:17px;min-height:44px}
+.alerts-section fieldset label,.form-note{font-size:15px;line-height:1.7}
+.email-line button{font-size:15px;min-height:48px}
+.fine-print{font-size:14px!important;line-height:1.75}
+.footer a{font-size:14px;padding:5px 0}
+
+/* Episode pages: clear answers, viewing actions and one continuous story guide. */
+.episode-page{max-width:1240px;margin:0 auto;padding:28px 36px 72px;color:var(--ink)}
+.episode-page *{min-width:0}
+.episode-page p{font-size:17px;line-height:1.8}
+.episode-page h2{font-size:clamp(28px,3vw,36px);line-height:1.25;letter-spacing:-.025em;max-width:850px}
+.episode-page h3{font-size:23px;font-family:var(--serif);line-height:1.4;letter-spacing:-.015em}
+.episode-breadcrumbs{margin-bottom:32px}
+.episode-breadcrumbs ol{display:flex;flex-wrap:wrap;list-style:none;gap:8px 0;margin:0;padding:0;align-items:center}
+.episode-breadcrumbs li{font-size:14px;line-height:1.6;color:var(--muted)}
+.episode-breadcrumbs li+li:before{content:'/';padding:0 12px;color:#8b9084}
+.episode-breadcrumbs a{display:inline-block;padding:6px 0;text-decoration:underline;text-decoration-color:#b2b8a8;text-underline-offset:4px}
+.episode-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.95fr);gap:48px;align-items:center;padding-bottom:38px}
+.episode-kicker{font-size:15px!important;color:var(--muted);margin-bottom:14px;font-weight:500}
+.episode-hero h1{font-size:clamp(50px,5.5vw,72px);line-height:1.08;letter-spacing:-.04em;margin:0 0 20px}
+.episode-series-name{display:block;font-family:var(--sans);font-size:20px;font-weight:500;line-height:1.5;letter-spacing:0;margin-bottom:13px}
+.episode-title-edition{display:block;font-size:30px;letter-spacing:-.02em;margin-top:12px;line-height:1.3}
+.episode-status{display:flex;align-items:center;gap:9px;font-weight:500;font-size:15px!important;margin:0 0 12px}
+.status-dot,.availability-dot{display:inline-block;flex-shrink:0;width:7px;height:7px;background:#557c51;border-radius:50%}
+.episode-intro{color:var(--muted);max-width:520px;margin:0 0 23px}
+.episode-hero-actions{display:flex;flex-wrap:wrap;gap:12px}
+.episode-button{display:inline-flex;justify-content:center;align-items:center;min-height:48px;padding:13px 20px;border:1px solid var(--ink);border-radius:4px;font-family:var(--sans);font-size:16px;line-height:1.4;font-weight:500;letter-spacing:0;text-align:center;text-decoration:none;transition:background .18s,color .18s,border-color .18s}
+.episode-button.primary{color:var(--paper);background:var(--ink)}
+.episode-button.primary:hover{background:#314f40;border-color:#314f40}
+.episode-button.secondary{background:transparent;color:var(--ink)}
+.episode-button.secondary:hover{background:#e5e8dd}
+.episode-button.light{background:var(--paper);border-color:var(--paper);color:var(--ink)}
+.episode-button.light:hover{background:#e3e9d9;border-color:#e3e9d9}
+.episode-button.light-outline{border-color:#a3b69c;color:var(--paper);background:transparent}
+.episode-button.light-outline:hover{background:#365440}
+.episode-artwork{margin:0;align-self:center}
+.episode-artwork img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:3px}
+.episode-artwork figcaption{font-size:14px;line-height:1.7;color:var(--muted);margin-top:10px}
+.episode-answer{padding:28px 30px 0;background:#e8ebdf;border:1px solid #d2d8c8;border-bottom:0;border-radius:4px 4px 0 0}
+.episode-answer h2{font-family:var(--sans);font-size:20px;font-weight:600;letter-spacing:0;line-height:1.5;margin-bottom:13px}
+.episode-answer p{max-width:930px}
+.episode-answer p.direct-answer{font-size:19px;line-height:1.7;margin-bottom:8px}
+.episode-answer p:last-child{color:#52614d}
+.episode-release{padding:22px 30px 27px;background:#e8ebdf;border:1px solid #d2d8c8;border-top:0;border-radius:0 0 4px 4px}
+.episode-release dl{display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;margin:0;padding-top:24px;border-top:1px solid #cad3bf}
+.episode-release dt{font-size:14px;line-height:1.6;color:#52614d;margin-bottom:8px}
+.episode-release dd{font-size:18px;font-weight:500;line-height:1.55;margin:0}
+.episode-release dd span{display:block;font-size:15px;font-weight:400;line-height:1.7;margin-top:4px;color:#52614d}
+.episode-page .page-note{font-size:14px!important;line-height:1.75;color:var(--muted);margin-top:19px;max-width:1000px}
+.episode-jump-nav{display:flex;flex-wrap:wrap;gap:10px;padding:23px 0 0}
+.episode-jump-nav .episode-button{font-size:15px;min-height:46px;padding:10px 18px;border-color:#aeb7a6}
+.episode-section{padding-top:52px;scroll-margin-top:24px}
+.episode-section-heading>p{color:var(--muted);margin:12px 0 25px}
+.platform-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.platform-card{display:flex;flex-direction:column;border:1px solid #cbd2c2;border-radius:4px;padding:25px;background:#f9f7f1}
+.platform-card h3{font-size:28px;margin:0 0 12px}
+.platform-card p{font-size:16px;line-height:1.75;margin-top:13px;color:var(--muted)}
+.platform-offer{display:inline-block;font-size:14px;line-height:1.6;font-weight:500}
+.platform-card .platform-availability{font-size:14px;line-height:1.7;display:flex;gap:9px;align-items:flex-start;margin:18px 0 22px;color:#435c40}
+.platform-availability .availability-dot{margin-top:8px}
+.platform-actions{display:flex;flex-direction:column;gap:10px;margin-top:auto;padding-top:8px}
+.platform-featured{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:30px;padding:30px 32px;background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.platform-featured h3{font-size:34px;margin:9px 0 12px}
+.provider-preference{display:inline-block;font-size:14px;font-weight:500;line-height:1.6;color:#d6cba1}
+.platform-featured .platform-offer{background:#3a5342;padding:5px 11px;border-radius:3px;color:#edf0e7}
+.platform-featured p{color:#d9dfd1;max-width:640px}
+.platform-featured .platform-availability{color:#edf0e7;margin-bottom:0}
+.platform-featured .availability-dot{background:#b6d29e}
+.platform-featured .platform-actions{margin-top:0;justify-content:center;min-width:218px;padding:0}
+.official-option{display:flex;align-items:center;justify-content:space-between;gap:28px;border-bottom:1px solid var(--line);padding:25px 0 35px}
+.official-option h3{font-size:23px}.official-option p{font-size:16px;color:var(--muted);max-width:730px;margin-top:8px}
+.official-option .episode-button{flex-shrink:0}
+.reading-section{max-width:900px}
+.reading-section>p{margin-top:19px}
+.content-label{display:inline-block;font-size:14px;padding:6px 12px;border:1px solid #c3cbb8;border-radius:3px;margin-top:16px;color:#52614d}
+.episode-page .story-overview{font-size:19px;line-height:1.85}
+.episode-page .story-warning{font-size:15px;color:#6b593e;background:#ece5d6;padding:13px 17px;margin:18px 0 25px;border-left:3px solid #b99461}
+.episode-story-list{list-style:none;margin:0;padding:0;counter-reset:story}
+.episode-story-list li{counter-increment:story;padding:0 0 25px 42px;position:relative}
+.episode-story-list li:before{content:counter(story,decimal-leading-zero);position:absolute;left:0;top:2px;font-size:16px;line-height:1.7;color:var(--muted)}
+.episode-story-list h3{font-size:25px;margin:0 0 10px}
+.episode-story-list p{color:#52614d}
+.episode-characters{margin:24px 0 0;padding:0;border-top:1px solid var(--line)}
+.episode-characters>div{display:grid;grid-template-columns:210px 1fr;gap:25px;padding:19px 0;border-bottom:1px solid var(--line)}
+.episode-characters dt{font-size:17px;font-weight:500;line-height:1.65}
+.episode-characters dd{margin:0;font-size:17px;line-height:1.75;color:#52614d}
+.episode-update{display:grid;grid-template-columns:185px minmax(0,1fr);gap:28px;padding:22px 0;margin-top:18px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.episode-update time{font-size:16px;font-weight:500;line-height:1.8}
+.episode-update p{font-size:16px;max-width:830px}
+.episode-faq-list{margin-top:24px;border-top:1px solid var(--line);max-width:1000px}
+.episode-faq-list details{border-bottom:1px solid var(--line);padding:0}
+.episode-faq-list summary{display:flex;align-items:center;justify-content:space-between;gap:25px;list-style:none;cursor:pointer;min-height:68px;padding:20px 0;font-size:18px;line-height:1.6;font-weight:500}
+.episode-faq-list summary::-webkit-details-marker{display:none}
+.episode-faq-list .faq-symbol{flex-shrink:0;font-size:26px;font-weight:400;line-height:1}
+.episode-faq-list details[open] .faq-symbol{transform:rotate(45deg)}
+.episode-faq-list details p{color:#52614d;padding:0 36px 23px 0;max-width:900px}
+.sources-intro{margin-top:14px;color:var(--muted);max-width:900px}
+.episode-source-list{list-style:none;padding:0;margin:24px 0 0;border-top:1px solid var(--line)}
+.episode-source-list li{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:22px 0;border-bottom:1px solid var(--line)}
+.episode-source-list h3{font-size:21px}
+.episode-source-list p{font-size:15px;color:var(--muted);margin-top:6px;max-width:740px}
+.episode-source-list .episode-button{flex-shrink:0;min-width:205px;font-size:15px}
+.episode-notify{display:flex;align-items:center;justify-content:space-between;gap:30px;background:#e8ebdf;border:1px solid #d2d8c8;border-radius:4px;padding:30px;margin-top:38px}
+.episode-notify h3{font-size:26px;margin-bottom:10px}
+.episode-notify p{font-size:16px;max-width:780px}
+.episode-notify .episode-button{flex-shrink:0}
+.episode-notify .page-note{margin-top:12px}
+.episode-bottom-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:30px}
+.episode-bottom-nav .episode-button{justify-content:center;min-height:52px}
+@media(max-width:1100px){.platform-list{gap:14px}.platform-card{padding:21px}.episode-hero{gap:30px}.platform-featured{padding:28px}.site-header{gap:18px}.logo-brand{width:155px}.header-alert{margin-left:0}}
+@media(max-width:980px){.site-header nav{display:none;position:absolute;top:100%;left:0;right:0;background:var(--paper);padding:20px 5%;border-bottom:1px solid var(--line);margin:0;gap:20px}.site-header.menu-open nav{display:flex}.menu-button{display:block}.header-alert{margin-left:auto}.episode-hero{grid-template-columns:minmax(0,1fr) minmax(0,.8fr);gap:26px}.platform-list{grid-template-columns:1fr}.platform-card:not(.platform-featured){display:grid;grid-template-columns:minmax(0,1fr) auto;gap:25px}.platform-card:not(.platform-featured) .platform-actions{min-width:210px;margin-top:0;justify-content:center}.platform-card .platform-availability{margin-bottom:0}.platform-featured{grid-column:auto}}
+@media(max-width:760px){.site-header nav{top:100%;flex-wrap:wrap;font-size:15px}.header-alert{font-size:14px;min-height:44px;padding:10px 12px}.logo-brand{width:138px}.site-header{gap:12px}.hero-description,.story-copy>p,.subtitle-tracks p,.questions details p,.article-body p{font-size:16px}.hero-foot,.hero-image figcaption,.image-caption,.story-meta,.track-heading .eyebrow,.track-status,.subtitle-tracks .text-link,.table-note,.schedule-note,.source-strip,.source-strip p,.footer p,.footer small{font-size:13px}.eyebrow{font-size:13px}.episodes-table{min-width:670px}.guide-link{font-size:14px;padding:10px 13px}.episodes-table time{font-size:15px}.episode-sub{font-size:13px}.table-wrap{overflow-x:auto}.episode-tools{gap:18px}.tabs button{font-size:14px;padding:12px}.questions summary{font-size:16px}.text-link{font-size:15px}.next-actions>a{font-size:15px}.next-date .countdown-status{font-size:14px}.countdown-display strong{font-size:58px}.countdown-display span{font-size:12px}.footer{gap:24px}.footer a{font-size:14px}.episode-page{padding:22px 22px 50px}.episode-breadcrumbs{margin-bottom:24px}.episode-breadcrumbs li{font-size:14px}.episode-breadcrumbs li+li:before{padding:0 8px}.episode-hero{grid-template-columns:1fr;gap:27px;padding-bottom:28px}.episode-hero h1{font-size:56px}.episode-series-name{font-size:19px}.episode-title-edition{font-size:29px}.episode-hero-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}.episode-hero-actions .episode-button{font-size:15px;padding:13px 10px}.episode-intro{font-size:17px}.episode-artwork img{aspect-ratio:16/9}.episode-answer{padding:22px 21px 0}.episode-answer h2{font-size:19px}.episode-answer p.direct-answer{font-size:18px}.episode-answer p{font-size:16px}.episode-release{padding:20px 21px 22px}.episode-release dl{grid-template-columns:1fr;gap:19px;padding-top:20px}.episode-release dl>div+div{border-top:1px solid #cbd3c2;padding-top:16px}.episode-release dd{font-size:18px}.episode-jump-nav{display:grid;grid-template-columns:1fr 1fr;gap:10px}.episode-jump-nav .episode-button{padding:11px;font-size:15px}.episode-section{padding-top:38px}.episode-page h2{font-size:29px}.episode-page p{font-size:17px}.platform-featured,.platform-card:not(.platform-featured){display:flex;flex-direction:column;gap:20px;padding:23px}.platform-featured h3{font-size:31px}.platform-card p{font-size:16px}.platform-card:not(.platform-featured) .platform-actions,.platform-featured .platform-actions{min-width:0;display:flex;flex-direction:column;gap:11px;width:100%;padding-top:0}.platform-card:not(.platform-featured) .platform-actions{flex-direction:row;flex-wrap:wrap}.platform-card:not(.platform-featured) .platform-actions .episode-button{flex:1;font-size:15px;padding:13px 12px}.platform-card .platform-availability{font-size:14px}.official-option{display:block;padding:23px 0 30px}.official-option .episode-button{margin-top:19px}.episode-page .story-overview{font-size:18px}.episode-story-list li{padding-left:36px}.episode-story-list h3{font-size:23px}.episode-characters>div{grid-template-columns:1fr;gap:6px;padding:17px 0}.episode-update{grid-template-columns:1fr;gap:8px}.episode-faq-list summary{font-size:17px;gap:20px;padding:19px 0}.episode-faq-list details p{padding-right:0;font-size:16px}.episode-source-list li{display:block;padding:23px 0}.episode-source-list p{font-size:15px}.episode-source-list .episode-button{margin-top:17px;min-width:0}.episode-notify{display:block;padding:23px}.episode-notify .episode-button{margin-top:22px;width:100%}.episode-bottom-nav{grid-template-columns:1fr;gap:12px}}
+@media(prefers-reduced-motion:reduce){.episode-button{transition:none}}
+
+/* Internally maintained broadcast calendar. */
+.broadcast-intro{padding-bottom:35px;max-width:950px}
+.broadcast-intro h1{font-size:clamp(44px,5.7vw,70px);line-height:1.1;margin:15px 0 22px}
+.broadcast-intro>p{max-width:820px;margin-bottom:25px}
+.broadcast-page .episode-answer{border-bottom:1px solid #d2d8c8;border-radius:4px;padding-bottom:28px}
+.broadcast-records{list-style:none;padding:0;margin:25px 0 0;border-top:1px solid var(--line)}
+.broadcast-record{display:grid;grid-template-columns:175px minmax(0,1fr) 225px;gap:32px;align-items:center;padding:28px 0;border-bottom:1px solid var(--line);scroll-margin-top:25px}
+.broadcast-record h2{font-size:29px;margin-bottom:6px}
+.broadcast-identity p{font-size:15px}.broadcast-identity .content-label{margin-top:10px}
+.broadcast-date>span{display:block;font-size:14px;color:var(--muted);margin-bottom:8px}
+.broadcast-date time{font-size:22px;line-height:1.5;font-family:var(--serif)}
+.broadcast-date p{font-size:15px;color:var(--muted);margin-top:8px}
+.broadcast-actions{display:flex;flex-direction:column;gap:10px}
+.broadcast-actions .episode-button{font-size:15px}
+.episode-release a{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:760px){.broadcast-record{grid-template-columns:1fr;gap:21px;padding:26px 0}.broadcast-intro h1{font-size:46px}.broadcast-actions{display:grid;grid-template-columns:1fr 1fr}.broadcast-actions .episode-button:first-child{grid-column:1/-1}.broadcast-page .reading-section .episode-hero-actions{display:flex}}
+
+/* Clear season and original numbering, edition help and supporting hubs. */
+.episode-original-number{display:block;font-family:var(--sans);font-size:19px;line-height:1.6;letter-spacing:0;color:var(--muted);margin-top:15px}
+.episode-no{font-size:27px;line-height:1.3;white-space:nowrap}
+.support-actions{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0 30px}
+.article-body h2{font-size:31px;line-height:1.3;letter-spacing:-.02em;margin:35px 0 17px}
+.article-body .episode-button{margin:0 0 12px}
+.support-definitions{margin:23px 0;padding:0}.support-definitions>div{padding:18px 0;border-bottom:1px solid var(--line)}
+.support-definitions dt{font-size:17px;font-weight:500;margin-bottom:7px}.support-definitions dd{margin:0;font-size:17px;line-height:1.8;color:var(--muted)}
+.numbering-table,.edition-glossary{border-collapse:collapse;width:100%;margin:20px 0;font-size:16px;text-align:left}
+.numbering-table caption{font-size:15px;color:var(--muted);text-align:left;margin-bottom:16px}
+.numbering-table th,.numbering-table td,.edition-glossary th,.edition-glossary td{padding:17px 15px;border-bottom:1px solid var(--line);line-height:1.75}
+.numbering-table thead th,.edition-glossary thead th{font-size:14px;color:var(--muted);font-weight:500}.numbering-table td .episode-button{font-size:14px;min-height:44px;padding:10px 14px;margin:4px 7px 4px 0}
+.edition-episodes{list-style:none;padding:0;margin:23px 0;border-top:1px solid var(--line)}
+.edition-episode{display:flex;justify-content:space-between;align-items:center;gap:25px;padding:24px 0;border-bottom:1px solid var(--line)}
+.edition-episode h2{font-size:27px;margin:0 0 9px}.edition-episode h2 span{display:block;font-family:var(--sans);font-size:16px;color:var(--muted);letter-spacing:0;margin-top:10px}
+.edition-episode p{font-size:15px;margin:0}.edition-episode .episode-button{flex-shrink:0;margin:0}
+.edition-reading-notes{border-top:1px solid var(--line);margin-top:28px;padding-top:27px}.edition-reading-notes h3{font-size:24px;margin:0 0 14px}.edition-reading-notes p+h3{margin-top:27px}.edition-reading-notes p{margin:0 0 19px}
+.episode-page p.urdu-reading{font-family:Tahoma,'Noto Naskh Arabic',Arial,sans-serif;font-size:21px;line-height:2.05;text-align:right;margin:0 0 30px}
+.edition-glossary td[lang=ur]{font-family:Tahoma,Arial,sans-serif;font-size:20px}.edition-glossary th{font-weight:500}.edition-glossary{margin:0 0 20px}
+@media(max-width:760px){.episode-original-number{font-size:18px}.episode-no{font-size:24px}.edition-episode{display:block}.edition-episode .episode-button{margin-top:18px;width:100%}.article-body h2{font-size:28px}.numbering-table{min-width:580px}.edition-reading-notes h3{font-size:23px}.episode-page p.urdu-reading{font-size:21px}.edition-glossary th,.edition-glossary td{padding:13px 10px}.support-actions{flex-direction:column;align-items:stretch}}
+.hero-season-title{display:block;font-family:var(--sans);font-size:25px;line-height:1.5;letter-spacing:0;margin-top:16px}
+@media(max-width:760px){.hero-season-title{font-size:22px;margin-top:14px}}

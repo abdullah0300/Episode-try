@@ -1,0 +1,2563 @@
+{
+  "/404/": {
+    "title": "Page not found | Episode Journal",
+    "description": "Return to the Season 4 guide.",
+    "canonical": "__SITE_ORIGIN__/404.html",
+    "robots": "noindex,follow",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/404.html#webpage",
+        "name": "Page not found | Episode Journal",
+        "description": "Return to the Season 4 guide.",
+        "url": "__SITE_ORIGIN__/404.html",
+        "inLanguage": "en",
+        "dateModified": "2026-10-13",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      }
+    ]
+  },
+  "/about/": {
+    "title": "About Episode Journal | Turkish Drama Release & Viewing Guide",
+    "description": "Meet Episode Journal, Webcraftio’s independent drama guide for episode dates, correct numbering, sourced summaries and verified subtitle viewing options.",
+    "canonical": "__SITE_ORIGIN__/about/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "@id": "__SITE_ORIGIN__/about/#webpage",
+        "name": "About Episode Journal | Turkish Drama Release & Viewing Guide",
+        "description": "Meet Episode Journal, Webcraftio’s independent drama guide for episode dates, correct numbering, sourced summaries and verified subtitle viewing options.",
+        "url": "__SITE_ORIGIN__/about/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-13",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About Episode Journal",
+            "item": "__SITE_ORIGIN__/about/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/": {
+    "title": "Mehmed Fetihler Sultani Episode 84 English Subtitles | S4 Ep 1",
+    "description": "Season 4 Episode 1 (original Episode 84): English subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep84.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/#webpage",
+        "name": "Mehmed Fetihler Sultani Episode 84 English Subtitles | S4 Ep 1",
+        "description": "Season 4 Episode 1 (original Episode 84): English subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-84",
+          "name": "Mehmed: Fetihler Sultanı 84. Bölüm",
+          "episodeNumber": 1,
+          "identifier": "Original Turkish broadcast episode 84",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/84-bolum",
+          "datePublished": "2026-09-15"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep84.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep84.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Mehmed Fetihler Sultani Episode 84 English Subtitles | S4 Ep 1",
+        "description": "Season 4 Episode 1 (original Episode 84): English subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep84.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-84"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/84-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=4083",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-1"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 1 (Original 84) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh Episode 84 Urdu Subtitles | S4 Ep 1",
+    "description": "Season 4 Episode 1 (original Episode 84): Urdu subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep84.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh Episode 84 Urdu Subtitles | S4 Ep 1",
+        "description": "Season 4 Episode 1 (original Episode 84): Urdu subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-84",
+          "name": "Mehmed: Fetihler Sultanı 84. Bölüm",
+          "episodeNumber": 1,
+          "identifier": "Original Turkish broadcast episode 84",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/84-bolum",
+          "datePublished": "2026-09-15"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep84.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep84.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh Episode 84 Urdu Subtitles | S4 Ep 1",
+        "description": "Season 4 Episode 1 (original Episode 84): Urdu subtitle viewing options, 15 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep84.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-84"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/84-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=4082",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-1"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 1 (Original 84) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/": {
+    "title": "Mehmed Fetihler Sultani Episode 85 English Subtitles | S4 Ep 2",
+    "description": "Season 4 Episode 2 (original Episode 85): English subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep85.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/#webpage",
+        "name": "Mehmed Fetihler Sultani Episode 85 English Subtitles | S4 Ep 2",
+        "description": "Season 4 Episode 2 (original Episode 85): English subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-85",
+          "name": "Mehmed: Fetihler Sultanı 85. Bölüm",
+          "episodeNumber": 2,
+          "identifier": "Original Turkish broadcast episode 85",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/85-bolum",
+          "datePublished": "2026-09-22"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep85.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep85.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Mehmed Fetihler Sultani Episode 85 English Subtitles | S4 Ep 2",
+        "description": "Season 4 Episode 2 (original Episode 85): English subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep85.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-85"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/85-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=4092",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-2"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 2 (Original 85) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh Episode 85 Urdu Subtitles | S4 Ep 2",
+    "description": "Season 4 Episode 2 (original Episode 85): Urdu subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep85.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh Episode 85 Urdu Subtitles | S4 Ep 2",
+        "description": "Season 4 Episode 2 (original Episode 85): Urdu subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-85",
+          "name": "Mehmed: Fetihler Sultanı 85. Bölüm",
+          "episodeNumber": 2,
+          "identifier": "Original Turkish broadcast episode 85",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/85-bolum",
+          "datePublished": "2026-09-22"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep85.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep85.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh Episode 85 Urdu Subtitles | S4 Ep 2",
+        "description": "Season 4 Episode 2 (original Episode 85): Urdu subtitle viewing options, 22 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep85.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-85"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/85-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=4093",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-2"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 2 (Original 85) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/": {
+    "title": "Mehmed Fetihler Sultani Episode 86 English Subtitles | S4 Ep 3",
+    "description": "Season 4 Episode 3 (original Episode 86): English subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep86.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/#webpage",
+        "name": "Mehmed Fetihler Sultani Episode 86 English Subtitles | S4 Ep 3",
+        "description": "Season 4 Episode 3 (original Episode 86): English subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-86",
+          "name": "Mehmed: Fetihler Sultanı 86. Bölüm",
+          "episodeNumber": 3,
+          "identifier": "Original Turkish broadcast episode 86",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/86-bolum",
+          "datePublished": "2026-09-29"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep86.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep86.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Mehmed Fetihler Sultani Episode 86 English Subtitles | S4 Ep 3",
+        "description": "Season 4 Episode 3 (original Episode 86): English subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep86.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-86"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/86-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40923",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-3"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 3 (Original 86) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh Episode 86 Urdu Subtitles | S4 Ep 3",
+    "description": "Season 4 Episode 3 (original Episode 86): Urdu subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep86.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh Episode 86 Urdu Subtitles | S4 Ep 3",
+        "description": "Season 4 Episode 3 (original Episode 86): Urdu subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-86",
+          "name": "Mehmed: Fetihler Sultanı 86. Bölüm",
+          "episodeNumber": 3,
+          "identifier": "Original Turkish broadcast episode 86",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/86-bolum",
+          "datePublished": "2026-09-29"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep86.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep86.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh Episode 86 Urdu Subtitles | S4 Ep 3",
+        "description": "Season 4 Episode 3 (original Episode 86): Urdu subtitle viewing options, 29 September 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep86.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-86"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/86-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40922",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-3"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 3 (Original 86) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/": {
+    "title": "Mehmed Fetihler Sultani Episode 87 English Subtitles | S4 Ep 4",
+    "description": "Season 4 Episode 4 (original Episode 87): English subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep87.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/#webpage",
+        "name": "Mehmed Fetihler Sultani Episode 87 English Subtitles | S4 Ep 4",
+        "description": "Season 4 Episode 4 (original Episode 87): English subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-87",
+          "name": "Mehmed: Fetihler Sultanı 87. Bölüm",
+          "episodeNumber": 4,
+          "identifier": "Original Turkish broadcast episode 87",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/87-bolum",
+          "datePublished": "2026-10-06"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep87.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep87.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Mehmed Fetihler Sultani Episode 87 English Subtitles | S4 Ep 4",
+        "description": "Season 4 Episode 4 (original Episode 87): English subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep87.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-87"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/87-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40931",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-4"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 4 (Original 87) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh Episode 87 Urdu Subtitles | S4 Ep 4",
+    "description": "Season 4 Episode 4 (original Episode 87): Urdu subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep87.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh Episode 87 Urdu Subtitles | S4 Ep 4",
+        "description": "Season 4 Episode 4 (original Episode 87): Urdu subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-87",
+          "name": "Mehmed: Fetihler Sultanı 87. Bölüm",
+          "episodeNumber": 4,
+          "identifier": "Original Turkish broadcast episode 87",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/87-bolum",
+          "datePublished": "2026-10-06"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep87.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep87.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh Episode 87 Urdu Subtitles | S4 Ep 4",
+        "description": "Season 4 Episode 4 (original Episode 87): Urdu subtitle viewing options, 6 October 2026 original broadcast date, verified providers and sourced story details.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep87.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-87"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/87-bolum",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40930",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://greatnation.webcraftio.com/drama/mehmed-fetihler-sultani/season-4/episode-4"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 4 (Original 87) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/": {
+    "title": "Sultan Muhammad Fateh S4 Ep 5 (88) English Subtitles Release Date",
+    "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): English subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep88.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh S4 Ep 5 (88) English Subtitles Release Date",
+        "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): English subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-88",
+          "name": "Mehmed: Fetihler Sultanı 88. Bölüm",
+          "episodeNumber": 5,
+          "identifier": "Original Turkish broadcast episode 88",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep88.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep88.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh S4 Ep 5 (88) English Subtitles Release Date",
+        "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): English subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep88.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-88"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 5 (Original 88) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh S4 Ep 5 (88) Urdu Subtitles Release Date",
+    "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): Urdu subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/ep88.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh S4 Ep 5 (88) Urdu Subtitles Release Date",
+        "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): Urdu subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-88",
+          "name": "Mehmed: Fetihler Sultanı 88. Bölüm",
+          "episodeNumber": 5,
+          "identifier": "Original Turkish broadcast episode 88",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/ep88.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/ep88.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh S4 Ep 5 (88) Urdu Subtitles Release Date",
+        "description": "Sultan Muhammad Fateh S4 Ep 5 (original 88): Urdu subtitles expected by 14 October 2026, 12 PM Pakistan time. Release countdown and viewing options.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/ep88.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-88"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 5 (Original 88) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/": {
+    "title": "Sultan Muhammad Fateh: Seasons, Episodes & Subtitle Guides",
+    "description": "Explore Mehmed Fetihler Sultani, also known as Sultan Muhammad Fateh: Season 4 release dates, episode numbering, and Urdu and English subtitle guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#webpage",
+        "name": "Sultan Muhammad Fateh: Seasons, Episodes & Subtitle Guides",
+        "description": "Explore Mehmed Fetihler Sultani, also known as Sultan Muhammad Fateh: Season 4 release dates, episode numbering, and Urdu and English subtitle guides.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-13",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Muhammad Fateh",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "TVSeries",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+        "name": "Mehmed: Fetihler Sultanı",
+        "alternateName": [
+          "Sultan Muhammad Fateh",
+          "Sultan Mehmed Fateh",
+          "Sultan Fatih"
+        ],
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/",
+        "sameAs": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+        "genre": "Historical drama",
+        "actor": {
+          "@type": "Person",
+          "name": "Serkan Çayoğlu"
+        }
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/": {
+    "title": "Sultan Muhammad Fateh Season 4 Release Dates & TRT Schedule",
+    "description": "Season 4 broadcast dates for original Episodes 84–89, the Tuesday 20:00 TRT schedule, expected Episode 6 dates, and Urdu and English subtitle guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Sultan Muhammad Fateh Season 4 Release Dates & TRT Schedule",
+        "description": "Season 4 broadcast dates for original Episodes 84–89, the Tuesday 20:00 TRT schedule, expected Episode 6 dates, and Urdu and English subtitle guides.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVSeason",
+          "seasonNumber": 4,
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          }
+        },
+        "citation": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/#webpage",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Broadcast dates",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/": {
+    "title": "Sultan Fatih Season 4 English Subtitles | Episodes 1–6",
+    "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): English subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/#webpage",
+        "name": "Sultan Fatih Season 4 English Subtitles | Episodes 1–6",
+        "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): English subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-14",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Season 4 with English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/season-4/": {
+    "title": "Sultan Muhammad Fateh Season 4 | Urdu & English Subtitles",
+    "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): Urdu and English subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/mehmed-tmdb-hero-1200.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Sultan Muhammad Fateh Season 4 | Urdu & English Subtitles",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/",
+        "about": {
+          "@type": "TVSeason",
+          "seasonNumber": 4,
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "name": "Mehmed: Fetihler Sultanı",
+            "alternateName": [
+              "Sultan Muhammad Fateh",
+              "Sultan Mehmed Fateh"
+            ]
+          }
+        },
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/#webpage",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "inLanguage": "en",
+        "dateModified": "2026-10-14"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/": {
+    "title": "Sultan Fatih Season 4 Urdu Subtitles | Episodes 1–6",
+    "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): Urdu subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/#webpage",
+        "name": "Sultan Fatih Season 4 Urdu Subtitles | Episodes 1–6",
+        "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): Urdu subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-14",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Season 4 with Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/guides/mehmed-season-4-episode-numbers/": {
+    "title": "Sultan Fatih Season 4 Episode Numbers: 1–6 vs 84–89",
+    "description": "Match Sultan Muhammad Fateh Season 4 Episodes 1–6 with original Turkish Episodes 84–89, and learn why Urdu-dubbed episode numbers can differ.",
+    "canonical": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/#webpage",
+        "name": "Sultan Fatih Season 4 Episode Numbers: 1–6 vs 84–89",
+        "description": "Match Sultan Muhammad Fateh Season 4 Episodes 1–6 with original Turkish Episodes 84–89, and learn why Urdu-dubbed episode numbers can differ.",
+        "url": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-14",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Season episode or original episode?",
+            "item": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/"
+          }
+        ]
+      }
+    ]
+  },
+  "/guides/mehmed-season-4-story-so-far/": {
+    "title": "Sultan Muhammad Fateh Season 4 Story Guide | Spoiler-Free",
+    "description": "A spoiler-free Sultan Fatih Season 4 story guide: Rome, the Karasu crisis, Ottoman–Akkoyunlu diplomacy and the princes’ roles, based on TRT synopses.",
+    "canonical": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-2.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/#webpage",
+        "name": "Sultan Muhammad Fateh Season 4 Story Guide | Spoiler-Free",
+        "description": "A spoiler-free Sultan Fatih Season 4 story guide: Rome, the Karasu crisis, Ottoman–Akkoyunlu diplomacy and the princes’ roles, based on TRT synopses.",
+        "url": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-13",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih Season 4 story guide",
+            "item": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh Season 4 Story Guide | Spoiler-Free",
+        "description": "A spoiler-free Sultan Fatih Season 4 story guide: Rome, the Karasu crisis, Ottoman–Akkoyunlu diplomacy and the princes’ roles, based on TRT synopses.",
+        "image": "__SITE_ORIGIN__/assets/frame-2.webp",
+        "datePublished": "2026-10-13",
+        "dateModified": "2026-10-13",
+        "inLanguage": "en",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/#webpage"
+        },
+        "citation": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series"
+        }
+      }
+    ]
+  },
+  "/how-we-check/": {
+    "title": "How Episode Journal Verifies Release Dates & Subtitles",
+    "description": "Our checking process: TRT broadcast sources, publisher-verified Urdu and English releases, episode numbering, story evidence and correction rules.",
+    "canonical": "__SITE_ORIGIN__/how-we-check/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/how-we-check/#webpage",
+        "name": "How Episode Journal Verifies Release Dates & Subtitles",
+        "description": "Our checking process: TRT broadcast sources, publisher-verified Urdu and English releases, episode numbering, story evidence and correction rules.",
+        "url": "__SITE_ORIGIN__/how-we-check/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-13",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How we verify episodes",
+            "item": "__SITE_ORIGIN__/how-we-check/"
+          }
+        ]
+      }
+    ]
+  },
+  "/": {
+    "title": "Sultan Muhammad Fateh Season 4 | Urdu & English Subtitles",
+    "description": "Sultan Muhammad Fateh Season 4 Episode 6 (original 89): Urdu and English subtitles expected 21 October 2026. Local release countdowns and Episode 1–6 viewing guides.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/mehmed-tmdb-hero-1200.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Sultan Muhammad Fateh Season 4 | Urdu & English Subtitles",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/",
+        "about": {
+          "@type": "TVSeason",
+          "seasonNumber": 4,
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "name": "Mehmed: Fetihler Sultanı",
+            "alternateName": [
+              "Sultan Muhammad Fateh",
+              "Sultan Mehmed Fateh"
+            ]
+          }
+        },
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/#webpage",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "inLanguage": "en",
+        "dateModified": "2026-10-14"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/": {
+    "title": "Sultan Muhammad Fateh S4 Ep 6 (89) English Subtitles Release Date",
+    "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; English subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh S4 Ep 6 (89) English Subtitles Release Date",
+        "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; English subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-14",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-89",
+          "name": "Mehmed: Fetihler Sultanı 89. Bölüm",
+          "episodeNumber": 6,
+          "identifier": "Original Turkish broadcast episode 89",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          }
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/frame-1.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/frame-1.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh S4 Ep 6 (89) English Subtitles Release Date",
+        "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; English subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-14",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-89"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 6 (Original 89) · English subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/"
+          }
+        ]
+      }
+    ]
+  },
+  "/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/": {
+    "title": "Sultan Muhammad Fateh S4 Ep 6 (89) Urdu Subtitles Release Date",
+    "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; Urdu subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/#webpage",
+        "name": "Sultan Muhammad Fateh S4 Ep 6 (89) Urdu Subtitles Release Date",
+        "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; Urdu subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+        "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/",
+        "inLanguage": "en",
+        "datePublished": "2026-10-14",
+        "dateModified": "2026-10-14",
+        "about": {
+          "@type": "TVEpisode",
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-89",
+          "name": "Mehmed: Fetihler Sultanı 89. Bölüm",
+          "episodeNumber": 6,
+          "identifier": "Original Turkish broadcast episode 89",
+          "partOfSeason": {
+            "@type": "TVSeason",
+            "seasonNumber": 4,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          "partOfSeries": {
+            "@type": "TVSeries",
+            "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#series",
+            "name": "Mehmed: Fetihler Sultanı",
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          }
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/frame-1.webp",
+          "contentUrl": "__SITE_ORIGIN__/assets/frame-1.webp"
+        },
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sultan Muhammad Fateh S4 Ep 6 (89) Urdu Subtitles Release Date",
+        "description": "Season 4 Episode 6 (original 89): Turkish broadcast expected 20 October; Urdu subtitles expected 21 October 2026. Countdown, viewing options and preview updates.",
+        "inLanguage": "en",
+        "datePublished": "2026-10-14",
+        "dateModified": "2026-10-14",
+        "author": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "image": "__SITE_ORIGIN__/assets/frame-1.webp",
+        "mainEntityOfPage": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/#webpage"
+        },
+        "about": {
+          "@id": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/#episode-89"
+        },
+        "citation": [
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum",
+          "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+          "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Episode Journal",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sultan Fatih",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Season 4",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Episode 6 (Original 89) · Urdu subtitles",
+            "item": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/"
+          }
+        ]
+      }
+    ]
+  }
+}

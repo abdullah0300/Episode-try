@@ -1,0 +1,47 @@
+{
+  "series": "Mehmed: Fetihler Sultanı",
+  "season_number": 4,
+  "reviewed_on": "2026-10-13",
+  "broadcast_day": "Tuesday",
+  "broadcast_time": "20:00",
+  "timezone": "Europe/Istanbul",
+  "schedule_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+  "date_basis": "Episode Journal editorial season calendar, linked to official TRT episode and preview pages. The weekly slot is stated directly by TRT.",
+  "episodes": [
+    {
+      "overall_episode": 84,
+      "season_episode": 1,
+      "broadcast_date": "2026-09-15",
+      "status": "released",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/84-bolum"
+    },
+    {
+      "overall_episode": 85,
+      "season_episode": 2,
+      "broadcast_date": "2026-09-22",
+      "status": "released",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/85-bolum"
+    },
+    {
+      "overall_episode": 86,
+      "season_episode": 3,
+      "broadcast_date": "2026-09-29",
+      "status": "released",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/86-bolum"
+    },
+    {
+      "overall_episode": 87,
+      "season_episode": 4,
+      "broadcast_date": "2026-10-06",
+      "status": "released",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/bolum/87-bolum"
+    },
+    {
+      "overall_episode": 88,
+      "season_episode": 5,
+      "broadcast_date": "2026-10-13",
+      "status": "upcoming",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet"
+    }
+  ]
+}

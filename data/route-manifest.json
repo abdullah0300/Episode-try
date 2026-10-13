@@ -1,0 +1,140 @@
+[
+  {
+    "path": "/404/",
+    "source": "dist/404.html",
+    "component": "components/pages/Page0.tsx",
+    "canonical": "__SITE_ORIGIN__/404.html"
+  },
+  {
+    "path": "/about/",
+    "source": "dist/about/index.html",
+    "component": "components/pages/Page1.tsx",
+    "canonical": "__SITE_ORIGIN__/about/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/index.html",
+    "component": "components/pages/Page2.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/index.html",
+    "component": "components/pages/Page3.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/84/urdu-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/index.html",
+    "component": "components/pages/Page4.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/index.html",
+    "component": "components/pages/Page5.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/85/urdu-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/index.html",
+    "component": "components/pages/Page6.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/index.html",
+    "component": "components/pages/Page7.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/86/urdu-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/index.html",
+    "component": "components/pages/Page8.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/index.html",
+    "component": "components/pages/Page9.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/87/urdu-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/index.html",
+    "component": "components/pages/Page10.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/index.html",
+    "component": "components/pages/Page11.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/index.html",
+    "component": "components/pages/Page12.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/index.html",
+    "component": "components/pages/Page13.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/index.html",
+    "component": "components/pages/Page14.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/season-4/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/season-4/index.html",
+    "component": "components/pages/Page15.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/",
+    "source": "dist/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/index.html",
+    "component": "components/pages/Page16.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/"
+  },
+  {
+    "path": "/guides/mehmed-season-4-episode-numbers/",
+    "source": "dist/guides/mehmed-season-4-episode-numbers/index.html",
+    "component": "components/pages/Page17.tsx",
+    "canonical": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/"
+  },
+  {
+    "path": "/guides/mehmed-season-4-story-so-far/",
+    "source": "dist/guides/mehmed-season-4-story-so-far/index.html",
+    "component": "components/pages/Page18.tsx",
+    "canonical": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/"
+  },
+  {
+    "path": "/how-we-check/",
+    "source": "dist/how-we-check/index.html",
+    "component": "components/pages/Page19.tsx",
+    "canonical": "__SITE_ORIGIN__/how-we-check/"
+  },
+  {
+    "path": "/",
+    "source": "dist/index.html",
+    "component": "components/pages/Page20.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/"
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/",
+    "component": "components/pages/Page21.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/",
+    "source": null
+  },
+  {
+    "path": "/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/",
+    "component": "components/pages/Page22.tsx",
+    "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/",
+    "source": null
+  }
+]
