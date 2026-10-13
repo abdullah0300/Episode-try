@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import { siteOrigin } from "@/lib/site";
 import "./globals.css";
 export const metadata: Metadata = {
@@ -18,5 +19,22 @@ export const metadata: Metadata = {
 };
 export const viewport: Viewport = {themeColor: "#20362d"};
 export default function RootLayout({children}: {children: React.ReactNode}) {
-  return <html lang="en"><body>{children}</body></html>;
+  return <html lang="en"><body>{children}
+    {process.env.NODE_ENV === "production" && <>
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-0ZHKYHH71W" strategy="afterInteractive" />
+      <Script id="google-analytics" strategy="afterInteractive">{`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-0ZHKYHH71W');
+      `}</Script>
+      <Script id="microsoft-clarity" strategy="afterInteractive">{`
+        (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "yx9ju2qijc");
+      `}</Script>
+    </>}
+  </body></html>;
 }
