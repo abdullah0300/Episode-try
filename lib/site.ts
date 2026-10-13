@@ -1,6 +1,7 @@
 import "server-only";
-const value = process.env.SITE_ORIGIN || (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
-if (!value) throw new Error("Set SITE_ORIGIN to your final HTTPS domain before building.");
+// The publisher's chosen canonical domain also works on hosts without .env.local.
+const productionOrigin = "https://episodejournal.webcraftio.com";
+const value = process.env.SITE_ORIGIN || (process.env.NODE_ENV === "production" ? productionOrigin : "http://localhost:3000");
 const parsed = new URL(value);
 if (parsed.pathname !== "/" || parsed.search || parsed.hash || parsed.username || parsed.password || /\s/.test(value)) {
   throw new Error("SITE_ORIGIN must contain only the scheme and host.");

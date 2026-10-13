@@ -356,3 +356,9 @@ body{font-size:16px}
 @media(max-width:900px){.journal-footer-top{gap:40px}.journal-footer-nav{gap:24px}.journal-footer-bottom{flex-wrap:wrap}}
 @media(max-width:760px){.journal-footer{padding:38px 22px 24px}.journal-footer-top{grid-template-columns:1fr;gap:37px;padding-bottom:30px}.journal-footer-statement{font-size:44px;margin-top:24px}.journal-footer-nav{gap:20px}.journal-footer-nav h2{font-size:11px;margin-bottom:13px}.journal-footer-nav a{font-size:14px;min-height:44px}.journal-footer-bottom{display:grid;grid-template-columns:1fr auto;gap:14px}.journal-footer-credit{grid-column:1 / -1;grid-row:2}.journal-footer-bottom>a{grid-column:2;grid-row:1}.journal-footer-bottom p span{display:block;margin-left:0}}
 @media(prefers-reduced-motion:reduce){.journal-footer-nav a{transition:none}}
+
+/* Keep navigation available while scrolling, with room for anchored headings. */
+.site-header{position:sticky;top:0;z-index:100;box-shadow:0 3px 14px rgba(32,54,45,.05)}
+html{scroll-padding-top:110px}
+@media(max-width:980px){html{scroll-padding-top:96px}}
+@media(max-width:760px){html{scroll-padding-top:90px}}
