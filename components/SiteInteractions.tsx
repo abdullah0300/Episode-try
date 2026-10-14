@@ -128,7 +128,7 @@ export default function SiteInteractions() {
           observer?.unobserve(entry.target);
         }
       }), {threshold: 0.08});
-      document.querySelectorAll(".platform-featured .light-outline[href='https://greatnation.webcraftio.com/']").forEach(button => observer?.observe(button));
+      document.querySelectorAll(".platform-featured .light-outline[href='https://greatnation.webcraftio.com/'],.watch-episode-cta").forEach(button => observer?.observe(button));
       document.querySelectorAll(".story-section,.schedule-section,.questions-section,.alerts-section").forEach(section => {
         section.classList.add("reveal-ready");
         observer?.observe(section);
