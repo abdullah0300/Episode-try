@@ -40,8 +40,10 @@
       "overall_episode": 88,
       "season_episode": 5,
       "broadcast_date": "2026-10-13",
-      "status": "upcoming",
-      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet"
+      "status": "released",
+      "trt_source": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet",
+      "release_confirmed_on": "2026-10-14",
+      "release_confirmed_by": "publisher"
     },
     {
       "overall_episode": 89,

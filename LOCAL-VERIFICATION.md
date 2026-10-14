@@ -50,3 +50,17 @@ TRT's official series page was checked and shows Tuesday 20:00. No Episode 89 sy
 Added Episode 6 links to the subtitle hubs, broadcast calendar and Episode 5 navigation. There are now 22 content routes and 21 unique canonical sitemap URLs. Current route inventory is in data/route-manifest.json; the archival reference remains unchanged. New metadata uses unique titles/descriptions, original number 89, within-season episodeNumber 6, and genuine 14 October page publication dates.
 
 Source, production build, TypeScript and updated rendered-output checks passed. All 22 local production content routes returned HTTP 200; missing routes returned 404. Browser verification confirmed both homepage subtitle timers and the new Urdu guide, with no captured console errors. Publishing automation is not included.
+
+## Episode 5 release confirmation — 14 October 2026
+
+The publisher confirmed both Urdu and English editions of Season 4 Episode 5 / original Episode 88 released on Great Nation, Makki TV, Niazi TV and Historical Point. Both guides, platform statuses, FAQs, availability history, homepage rows, subtitle hubs, calendar and metadata were updated. Confirmation is publisher-supplied; no assistant playback test or exact upload timestamp is claimed. Episode 5 countdowns were removed. Episode 6 remains featured and upcoming. Source, production build and rendered-output validation passed.
+
+## Episode 6 researched preview — 14 October 2026
+
+TRT now lists its official Episode 89 trailer. DiziKonusu coverage and DiziFragman's published transcript were read and cross-checked for the eastern confrontation, Bayezid's frontier order and reports of a fortress raid. The transcript warns of errors, so precise disputed fortress spelling and final battle outcomes are not asserted. Niazi's current Episode 88 Urdu guide was read for previous-episode context; no Episode 89 Niazi listing was verified.
+
+Both Episode 89 editions now contain original, distinct summaries, language-specific reading help, cast/character context, terminology and an episode-specific FAQ. Story details are clearly labelled as trailer reports, not a full watched recap. Source links and Article citations are updated. Build, source and rendered-output validation passed.
+
+## Episode 5 story research — 14 October 2026
+
+Read TRT's official Episode 88 synopsis (including its embedded page content) and both language-specific Niazi listings, IDs 40941 and 40942. Updated both guides with distinct original summaries, sourced story developments, character context, language aids and a new episode-specific FAQ. Added observed Niazi viewing links in the correct editions. SEO descriptions and Article citations match the revised content. No copied dialogue, final-scene claim or complete watched recap was added. Build, source and rendered-output validation passed.

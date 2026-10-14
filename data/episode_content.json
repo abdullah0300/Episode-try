@@ -340,5 +340,128 @@
         ]
       ]
     }
+  },
+  "88": {
+    "verification": {
+      "status": "verified",
+      "verified_on": "2026-10-14",
+      "verified_by": "publisher",
+      "basis": "Publisher confirmed both subtitle editions released on all four viewing platforms. Playback was not independently tested by the assistant.",
+      "languages": [
+        "Urdu",
+        "English"
+      ],
+      "providers": [
+        "Great Nation",
+        "Makki TV",
+        "Niazi TV",
+        "Historical Point"
+      ]
+    },
+    "content_status": "released_synopsis",
+    "overviews": {
+      "English": "Mehmed’s road to Rome narrows as the eastern dispute deepens. Uzun Hasan’s protection of Ishak turns a Karaman quarrel into a wider diplomatic challenge. Episode 88 brings the sultan’s ambitions abroad into conflict with discipline at home: negotiations in Tabriz unfold alongside discontent over Mustafa’s punishment.",
+      "Urdu": "For Sultan Muhammad Fateh, Episode 88 makes the eastern crisis impossible to set aside. The dispute around Ishak draws attention away from Rome, while Mustafa’s punishment strains loyalty in the capital. This Urdu guide follows those competing obligations without turning a published synopsis into an invented account of the final scenes."
+    },
+    "edition_notes": {
+      "English": "Read this chapter through three places: Tabriz is the diplomatic arena, Constantinople is where military loyalty becomes a problem, and Karaman is the contested throne. Rum Mehmed Pasha is the envoy named here; he should not be confused with Sultan Mehmed. The sources describe pressures and choices, not every final resolution.",
+      "Urdu": "اوزون حسن کی طرف سے اسحاق کو پناہ ملنے پر مشرقی کشیدگی بڑھتی ہے۔ روم محمد پاشا تبریز میں سفارتی ذمہ داری نبھاتے ہیں، جبکہ مصطفیٰ کی سزا پر ینی چری بے چین ہوتے ہیں۔ قرامان میں سلیمان کی حکومت بھی دباؤ میں ہے۔ شائع شدہ خلاصہ ان بحرانوں کا مکمل انجام واضح نہیں کرتا۔"
+    },
+    "developments_by_edition": {
+      "English": [
+        [
+          "Protection becomes a provocation",
+          "Uzun Hasan shelters Karamanoglu Ishak, placing Ottoman interests under fresh pressure."
+        ],
+        [
+          "An envoy enters a divided court",
+          "Rum Mehmed Pasha goes to Tabriz seeking peace, while opponents of reconciliation threaten his mission."
+        ],
+        [
+          "A sentence tests the army",
+          "Mustafa’s punishment stirs the Janissaries. Mehmed faces a question of military obedience as well as family discipline."
+        ],
+        [
+          "Karaman remains unsettled",
+          "Suleiman’s position is threatened again, with Mustafa drawn into the struggle."
+        ]
+      ],
+      "Urdu": [
+        [
+          "The western plan has to wait",
+          "Rome remains an ambition, but the confrontation with Uzun Hasan demands Mehmed’s attention first."
+        ],
+        [
+          "Peace depends on more than two rulers",
+          "The Tabriz mission faces resistance within the Akkoyunlu court, complicating the search for agreement."
+        ],
+        [
+          "Loyalty becomes a test of authority",
+          "Soldiers’ support for Mustafa turns his punishment into a question of state discipline."
+        ],
+        [
+          "The throne in Karaman is exposed",
+          "The synopsis links Suleiman’s danger with the wider rivalry; it does not settle the struggle’s outcome."
+        ]
+      ]
+    },
+    "niazi": {
+      "Urdu": "40941",
+      "English": "40942"
+    },
+    "sources": [
+      "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/ozet/88-bolum-ozet",
+      "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40941",
+      "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40942"
+    ]
+  },
+  "89": {
+    "content_status": "trailer_preview",
+    "reviewed_on": "2026-10-14",
+    "overviews": {
+      "English": "Rome remains on Mehmed’s horizon, but the eastern frontier now demands his attention. Episode 89’s trailer coverage places the Ottoman–Akkoyunlu rivalry at the centre of the next chapter, with Bayezid receiving a military assignment. This is a preview of the coming confrontation, not its outcome.",
+      "Urdu": "Sultan Muhammad Fateh’s next chapter shifts the weight of the campaign eastward. The Episode 89 promotion presents a ruler unwilling to let the dispute with Uzun Hasan pass unanswered. For Urdu-subtitle viewers, the key distinction is between preparations shown in the trailer and events still awaiting the full episode."
+    },
+    "edition_notes": {
+      "English": "Follow the geography before the rhetoric: Rome is the western ambition; the Akkoyunlu frontier is the immediate military concern. Bayezid’s assignment is separate from Mustafa’s difficulties in the previous episode. The published trailer transcript is imperfect, so disputed place-name spellings should not be treated as settled facts.",
+      "Urdu": "چھٹی قسط کے ٹریلر میں سلطان محمد کی توجہ مشرقی سرحد کی طرف جاتی ہے۔ بایزید کو فوجی ذمہ داری ملتی ہے، جبکہ اوزون حسن سے کشیدگی بڑھتی دکھائی دیتی ہے۔ یہ آنے والی قسط کی جھلک ہے؛ جنگ کا انجام ابھی تصدیق شدہ نہیں۔"
+    },
+    "developments_by_edition": {
+      "English": [
+        [
+          "A western ambition meets an eastern challenge",
+          "Trailer coverage describes Mehmed turning his attention toward Uzun Hasan after the Karaman dispute."
+        ],
+        [
+          "Bayezid receives a frontier assignment",
+          "The published trailer transcript reports an order to gather Anatolian cavalry and head toward the Akkoyunlu border."
+        ],
+        [
+          "A raid raises the stakes",
+          "Coverage reports a fortress raid involving Ishak. The trailer does not establish the final military outcome."
+        ]
+      ],
+      "Urdu": [
+        [
+          "The road to Rome is interrupted",
+          "The promotion links Mehmed’s anger to the eastern dispute, rather than presenting a completed western expedition."
+        ],
+        [
+          "The prince moves toward the border",
+          "Bayezid is assigned a frontier role in the published trailer material. This is a military order, not proof of victory."
+        ],
+        [
+          "Ishak remains a point of contention",
+          "Reports of the trailer connect Ishak with a fortress raid. The full sequence and its consequences await release."
+        ]
+      ]
+    },
+    "sources": [
+      "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/fragman/89-bolum-fragmani",
+      "https://www.dizikonusu.com/mehmed-fetihler-sultani-89-bolum-fragmani-fatihten-uzun-hasana-sok-sefer/",
+      "https://www.dizifragman.tr/fragman/mehmed-fetihler-sultani-89-bolum-fragmani-trt1",
+      "https://play.niazitv.pk/drama/82/single-serie?watch=1&episode=40941"
+    ],
+    "limitations": "No verified full Episode 89 synopsis or Niazi Episode 89 listing. Trailer transcript may contain errors; not a watched recap."
   }
 }

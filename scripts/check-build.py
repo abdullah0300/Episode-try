@@ -63,8 +63,6 @@ for item in manifest:
         '/dramas/mehmed-fetihler-sultani/season-4/': ['Urdu', 'English', 'Urdu', 'English'],
         '/dramas/mehmed-fetihler-sultani/season-4/urdu-subtitles/': ['Urdu'],
         '/dramas/mehmed-fetihler-sultani/season-4/english-subtitles/': ['English'],
-        '/dramas/mehmed-fetihler-sultani/episodes/88/urdu-subtitles/': ['Urdu'],
-        '/dramas/mehmed-fetihler-sultani/episodes/88/english-subtitles/': ['English'],
         '/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/': ['Urdu'],
         '/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/': ['English'],
     }.get(path, [])
@@ -84,9 +82,12 @@ for item in manifest:
         if link.startswith('/') and not link.startswith('//'):
             target = link.split('#')[0].split('?')[0] or path
             assert target in metadata or target.startswith('/assets/') or target in ('/sitemap.xml', '/robots.txt'), f'broken internal link: {path} -> {link}'
+    if '/episodes/88/' in path:
+        assert 'Verified' in text and '14 October 2026' in text, path
+        assert 'Awaiting episode release' not in text and 'subtitle playback has not yet been verified' not in text, path
     if '/episodes/89/' in path:
         assert 'Expected on 20 October 2026' in text, path
-        assert 'episode-specific synopsis has not been verified' in text, path
+        assert 'Trailer-based preview' in text and '89-bolum-fragmani' in text, path
         assert 'episodes/88/' in text and 'frame-1.webp' in text, path
         assert '/ozet/89-bolum-ozet' not in text, path
     assert p.title == metadata[path]['title'], path
