@@ -1,0 +1,23 @@
+[
+  {
+    "role": "fatih-sultan-mehmed",
+    "sourcePage": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/fatih-sultan-mehmed",
+    "sourceImage": "https://cdn-i.pr.trt.com.tr/trt1/sultan-mehmed-21753173-0-0-1199-1799.png",
+    "local": "public\\assets\\blog\\fatih-sultan-mehmed-reference.png",
+    "bytes": 4153705
+  },
+  {
+    "role": "uzun-hasan",
+    "sourcePage": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/uzun-hasan",
+    "sourceImage": "https://cdn-i.pr.trt.com.tr/trt1/uzun-hasan-21753650-0-0-1199-1799.png",
+    "local": "public\\assets\\blog\\uzun-hasan-reference.png",
+    "bytes": 4728605
+  },
+  {
+    "role": "has-murad-pasa",
+    "sourcePage": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani/oyuncu/has-murad-pasa",
+    "sourceImage": "https://cdn-i.pr.trt.com.tr/trt1/has-murad-pasa-21753679-0-0-1199-1799.png",
+    "local": "public\\assets\\blog\\has-murad-pasa-reference.png",
+    "bytes": 4809474
+  }
+]

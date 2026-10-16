@@ -2559,5 +2559,147 @@
         ]
       }
     ]
+  },
+  "/blog/": {
+    "title": "Blog | Mehmed Stories & Viewing Guides | Episode Journal",
+    "description": "Read original Mehmed Season 4 articles on cast, characters, subtitle timing and viewing options, with links to episode details and release dates.",
+    "canonical": "__SITE_ORIGIN__/blog/",
+    "robots": "index,follow,max-image-preview:large",
+    "image": "__SITE_ORIGIN__/assets/blog/sultan-muhammad-fateh-season-4-cast-cover.webp",
+    "graph": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "__SITE_ORIGIN__/#publisher",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/about/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "__SITE_ORIGIN__/assets/episode-journal-logo.png",
+          "width": 2172,
+          "height": 724
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Webcraftio",
+          "url": "https://webcraftio.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "__SITE_ORIGIN__/#website",
+        "name": "Episode Journal",
+        "url": "__SITE_ORIGIN__/",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "__SITE_ORIGIN__/blog/#webpage",
+        "name": "Blog | Mehmed Stories & Viewing Guides | Episode Journal",
+        "description": "Read original Mehmed Season 4 articles on cast, characters, subtitle timing and viewing options, with links to episode details and release dates.",
+        "url": "__SITE_ORIGIN__/blog/",
+        "inLanguage": "en",
+        "dateModified": "2026-10-17",
+        "isPartOf": {
+          "@id": "__SITE_ORIGIN__/#website"
+        },
+        "publisher": {
+          "@id": "__SITE_ORIGIN__/#publisher"
+        },
+        "mainEntity": {
+          "@id": "__SITE_ORIGIN__/blog/#reading"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "__SITE_ORIGIN__/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "__SITE_ORIGIN__/blog/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "__SITE_ORIGIN__/blog/#reading",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "__SITE_ORIGIN__/blog/sultan-muhammad-fateh-season-4-cast/",
+            "name": "Sultan Muhammad Fateh Season 4 cast: match the actor to the character"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "__SITE_ORIGIN__/blog/who-plays-sultan-mehmed/",
+            "name": "Who plays Sultan Mehmed? Finding the right actor and drama"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "__SITE_ORIGIN__/blog/uzun-hasan-mehmed-season-4/",
+            "name": "Uzun Hasan in Mehmed Season 4: actor, rivalry and story context"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "__SITE_ORIGIN__/blog/mehmed-season-4-viewing-options/",
+            "name": "Where to watch Mehmed Season 4: choosing the right subtitle edition"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "__SITE_ORIGIN__/blog/urdu-english-subtitle-release-times/",
+            "name": "Why Urdu and English subtitle release times can differ"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "__SITE_ORIGIN__/blog/sultan-fateh-mehmed-drama-names/",
+            "name": "Sultan Muhammad Fateh or Mehmed Fetihler Sultani: find the right drama"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "__SITE_ORIGIN__/blog/broadcast-upload-subtitle-dates/",
+            "name": "Broadcast date, upload date and subtitle availability: what each means"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "__SITE_ORIGIN__/guides/mehmed-season-4-story-so-far/",
+            "name": "Sultan Fatih Season 4 story guide"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "__SITE_ORIGIN__/guides/mehmed-season-4-episode-numbers/",
+            "name": "Season 4 episode numbers explained"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/season-4/broadcast-dates/",
+            "name": "Season 4 broadcast dates and subtitle releases"
+          }
+        ]
+      }
+    ]
   }
 }

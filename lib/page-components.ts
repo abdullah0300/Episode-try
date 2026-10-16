@@ -1,3 +1,4 @@
+import BlogIndex from "@/components/BlogIndex";
 import Page21 from "@/components/pages/Page21";
 import Page22 from "@/components/pages/Page22";
 import Page0 from "@/components/pages/Page0";
@@ -22,6 +23,7 @@ import Page18 from "@/components/pages/Page18";
 import Page19 from "@/components/pages/Page19";
 import Page20 from "@/components/pages/Page20";
 export const pageComponents = {
+"/blog/": BlogIndex,
 "/dramas/mehmed-fetihler-sultani/episodes/89/english-subtitles/": Page21,
 "/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/": Page22,
 "/404/": Page0,

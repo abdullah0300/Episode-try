@@ -136,5 +136,11 @@
     "component": "components/pages/Page22.tsx",
     "canonical": "__SITE_ORIGIN__/dramas/mehmed-fetihler-sultani/episodes/89/urdu-subtitles/",
     "source": null
+  },
+  {
+    "path": "/blog/",
+    "source": null,
+    "component": "components/BlogIndex.tsx",
+    "canonical": "__SITE_ORIGIN__/blog/"
   }
 ]

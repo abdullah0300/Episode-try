@@ -49,6 +49,8 @@ root = Path(__file__).resolve().parents[1]
 manifest = json.loads((root/'data/route-manifest.json').read_text(encoding="utf-8"))
 metadata = json.loads((root/'data/page-metadata.json').read_text(encoding="utf-8"))
 revisions = json.loads((root/'data/page-revisions.json').read_text(encoding="utf-8"))
+posts = [p for p in json.loads((root/'content/posts.json').read_text(encoding='utf-8')) if p['status'] == 'published']
+post_paths = {'/blog/'+p['slug']+'/' for p in posts}
 build = root/'.next/server/app'
 origin = None; canonical = set()
 for item in manifest:
@@ -81,7 +83,7 @@ for item in manifest:
     for link in p.links:
         if link.startswith('/') and not link.startswith('//'):
             target = link.split('#')[0].split('?')[0] or path
-            assert target in metadata or target.startswith('/assets/') or target in ('/sitemap.xml', '/robots.txt'), f'broken internal link: {path} -> {link}'
+            assert target in metadata or target in post_paths or target.startswith('/assets/') or target in ('/sitemap.xml', '/robots.txt'), f'broken internal link: {path} -> {link}'
     if '/episodes/88/' in path:
         assert 'Verified' in text and '14 October 2026' in text, path
         assert 'Awaiting episode release' not in text and 'subtitle playback has not yet been verified' not in text, path
@@ -110,10 +112,34 @@ for item in manifest:
         canonical.add(p.canonical[0])
 
 locs = [e.text for e in ET.parse(build/'sitemap.xml.body').findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-assert len(locs) == len(set(locs)) == 21
-assert set(locs) == canonical
+assert len(locs) == len(set(locs)) == len(canonical) + len(posts)
+assert set(locs) == canonical | {origin+p for p in post_paths}
+for post in posts:
+    path = '/blog/'+post['slug']+'/'
+    text = (build/(path.strip('/')+'.html')).read_text(encoding='utf-8')
+    parsed = Page(text)
+    assert parsed.h1 == 1 and len(parsed.ids) == len(set(parsed.ids)), path
+    assert parsed.canonical == [origin+path], path
+    assert parsed.meta['og:type'] == 'article', path
+    article = next(n for n in parsed.graph if n['@type'] == 'BlogPosting')
+    assert article['headline'] == post['title'] and article['datePublished'] == post['publishedAt'], path
+    assert article['dateModified'] == post['modifiedAt'] and article['author']['name'] == post['author'], path
+    body_words = len((' '.join([post['answer']] + [p for s in post['sections'] for p in s['paragraphs']])).split())
+    assert body_words >= 2500 and article['wordCount'] == body_words, path
+    assert ('journal-article--'+post['layout']) in text and post['fieldGuide']['heading'] in ''.join(parsed.main_text), path
+    assert post['answer'] in text and 'noindex' not in parsed.meta['robots'], path
+    assert len(article['citation']) == len(post['sources']), path
+    for link in parsed.links:
+        if link.startswith('/'):
+            target = link.split('#')[0].split('?')[0]
+            assert target in metadata or target in post_paths or target in ('/sitemap.xml', '/robots.txt'), (path, link)
+        elif link.startswith('#'):
+            assert link[1:] in parsed.ids, (path, link)
+    assert 'urdu-subtitles/' in text and 'english-subtitles/' in text, path
+    for section in post['sections']:
+        assert section['title'] in ''.join(parsed.main_text), path
 assert origin+'/sitemap.xml' in (build/'robots.txt.body').read_text(encoding="utf-8")
 assert 'chatgpt.site' not in (build/'sitemap.xml.body').read_text(encoding="utf-8")
-print(json.dumps({'rendered_pages': len(manifest), 'canonical_pages': len(canonical),
+print(json.dumps({'rendered_pages': len(manifest) + len(posts), 'canonical_pages': len(canonical) + len(posts), 'long_articles_checked': len(posts),
                   'unchanged_page_fidelity': 'passed', 'internal_links_and_new_guides': 'passed',
                   'metadata_and_schema': 'passed', 'sitemap_and_robots': 'passed', 'build_origin': origin}))
